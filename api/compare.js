@@ -1,7 +1,7 @@
 /**
  * NOTE ON AUTHORSHIP
  * ------------------
- * This file was generated with the assistance of ChatGPT under explicit architectural, security, and product constraints defined by me.
+ * This file was generated with the assistance of GPT 5.2 under explicit architectural, security, and product constraints defined by me.
  *
  * The intent of this repository is to demonstrate how AI-assisted development can be used by product leaders to design, ship, and operate production systems, and not to showcase coding expertise.
  */
