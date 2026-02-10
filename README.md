@@ -1,5 +1,7 @@
 # Competitive Analysis – Production AI System
 
+**Live demo:** https://competitive-analysis-ui.vercel.app
+
 1) Overview
 
 This repository demonstrates how to take an LLM powered workflow from prototype to production, with an explicit focus on product leadership, system design, and operational rigor.
