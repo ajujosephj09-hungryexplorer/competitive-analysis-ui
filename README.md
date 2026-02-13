@@ -6,14 +6,14 @@
 
 This repository demonstrates how to take an LLM powered workflow from prototype to production, with an explicit focus on product leadership, system design, and operational rigor.
 
-The system exposes a public UI backed by serverless APIs and a structured n8n-based AI agent pipeline that performs competitive analysis using search, evidence synthesis, reasoning, and strict output validation.
+The system exposes a public UI backed by serverless APIs and a structured n8n based AI agent pipeline that performs competitive analysis using search, evidence synthesis, reasoning, and strict output validation.
 
 
 2) Why this exists
 
 I have been trying to learn end to end AI system design, and most AI projects stop at:
 - prompts
-- single-function demos
+- single function demos
 
 Real AI products require a lot more, including but not limited to the following and I couldn't find much help.
 - orchestration
